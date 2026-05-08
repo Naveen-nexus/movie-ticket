@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed on your system:
 - **PostgreSQL Database** (or use Supabase)
 - **Git** - [Download](https://git-scm.com/)
 
-### Optional Tools
+### Optional Tools.
 - **Maven 3.6+** (if not using Maven wrapper)
 - **VS Code** or any code editor
 - **Postman** for API testing
