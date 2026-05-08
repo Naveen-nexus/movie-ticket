@@ -75,5 +75,5 @@ Write-Host ""
 Write-Host "  Access the app at: http://localhost:5173" -ForegroundColor Green
 Write-Host "  API runs at: http://localhost:8080" -ForegroundColor Green
 Write-Host ""
-Write-Host "📚 For detailed verification, see: VERIFICATION_REPORT.md" -ForegroundColor Cyan
+Write-Host "For detailed verification, see: VERIFICATION_REPORT.md" -ForegroundColor Cyan
 Write-Host ""
