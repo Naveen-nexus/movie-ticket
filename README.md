@@ -4,7 +4,7 @@ A modern, full stack movie ticket booking platform built with React, Spring Boot
 
 **This project was created to test and demonstrate my knowledge in Java, Spring Boot, and the associated technology stack. It serves as a practical implementation for learning and practicing these technologies, utilizing strictly the tech stack mentioned below to build a functional, feature rich application.**
 
-## ✨ Features
+## ✨ Features of ticket reservation system
 
 ### 🎟️ User Features
 - Browse and search movies by genre, language, and city
